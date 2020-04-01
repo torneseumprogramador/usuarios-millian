@@ -1,3 +1,4 @@
+
 const mongoose = require('mongoose');
 // run in windows => mongod --port 80
 const uri = 'mongodb://localhost/millionUsuarios';
